@@ -1,7 +1,6 @@
-# Hi 👋, I'm Mahmut TAYLAN
+# Hi 👋, I'm Mahmut TAYLAN - A passionate Full stack developer
 [mahmuttaylan](https://github.com/mahmuttaylan)
 
-## 🌱 I’m currently learning C# .Net
 
 ## 📫 How to reach me
 - Email: mahmuttaylan3@gmail.com
