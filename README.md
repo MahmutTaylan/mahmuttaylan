@@ -1,14 +1,11 @@
-# Hi 👋, I'm Mahmut TAYLAN - A passionate Full stack developer
-[mahmuttaylan](https://github.com/mahmuttaylan)
-
+# Hi 👋, I'm Mahmut TAYLAN 
+A passionate Full stack developer
 
 ## 📫 How to reach me
 - Email: mahmuttaylan3@gmail.com
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/mahmuttaylan/)
-
-- [GitHub](https://github.com/mahmuttaylan)
 
 ## Languages and Tools:
 - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
