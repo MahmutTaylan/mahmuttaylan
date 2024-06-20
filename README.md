@@ -3,7 +3,7 @@ A passionate Full stack developer
 
 ## Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/mahmuttaylan/)
-- Email: mahmuttaylan3@gmail.com
+- mahmuttaylan3@gmail.com
 
 ## Languages and Tools:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
